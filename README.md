@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Filippo 👋
+
+I'm a product design leader with 20 years of craft experience. Master at translating strategy into execution. Proven track record shipping results at scale for Shopify and WordPress.com
 
 <!--
 **fditrapani/fditrapani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
